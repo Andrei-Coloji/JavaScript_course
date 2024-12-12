@@ -1,2 +1,4 @@
 # JavaScript_course
-Learning JavaScript
+Learning JavaScript via a course.
+This repo is my learning and progress.
+
